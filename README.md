@@ -1,16 +1,19 @@
-### Hi there 👋
+## ( &nbsp;'-' ) Poppo!
 
-<!--
-**CutterKnife/CutterKnife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm an art university student in Japan 📚
+- I enjoy designing (logos, icons, etc.) as a hobby 🎨
+- I contribute a little to projects I like, such as Floorp and TUIC 🪼
+- I use a translator (such as DeepL) for non-Japanese text 🫠
 
-Here are some ideas to get you started:
+### 💻 Tools I have
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linearity Curve (several years)
+- Adobe Photoshop (beginner)
+- Adobe Illustrator (very beginner)
+- Rarely: Notion, Ulysses, Adobe Express, GIMP, ibisPaint X, Apple Pro Apps, etc.
+
+### 👋 More about me
+
+- [Portfolio](https://cutterknife.studio.site/)
+
+- [Links](https://potofu.me/cutterknife/)
