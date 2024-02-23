@@ -3,7 +3,7 @@
 - I'm an art university student in Japan 📚
 - I enjoy designing as a hobby, like logos, icons, etc. 🎨
 - I contribute a little to projects I like, such as Floorp and TUIC 🪼
-- I use a translator (such as DeepL) for non-Japanese text 🫠
+- I use a translator (mainly DeepL) for non-Japanese text 🫠
 
 ### 💻 Tools I have
 
