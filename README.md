@@ -12,7 +12,7 @@
 - Adobe Illustrator (very beginner)
 - Rarely: Notion, Ulysses, Adobe Express, GIMP, ibisPaint X, Apple Pro Apps, etc
 
-### 👋 More about me
+### 👋 More about me (Japanese)
 
 - [Portfolio](https://cutterknife.studio.site/)
 
