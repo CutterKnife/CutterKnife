@@ -10,7 +10,7 @@
 - Linearity Curve (several years)
 - Adobe Photoshop (beginner)
 - Adobe Illustrator (very beginner)
-- Rarely: Notion, Ulysses, Adobe Express, GIMP, ibisPaint X, Apple Pro Apps, etc
+- Rarely: Notion, Figma, GIMP, Apple Pro Apps, etc
 
 ### 👋 More about me (Japanese)
 
