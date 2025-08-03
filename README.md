@@ -10,7 +10,7 @@
 - I'm one of the Moderators of the Floorp Project 🛠️
 - Floorp is an open-source browser based on Firefox 🦊
 - I help design things outside the interface 🖌️
-- I also work on Japanese translation, docs, and more! 📃
+- I also work on Japanese translation, docs, and more 📃
 
 ### 💻 Tools I have
 
