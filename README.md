@@ -20,10 +20,10 @@
 - Adobe Photoshop (beginner)
 - Rarely: Notion, Affinity, Figma, etc
 
-### 👋 More about me (Japanese)
+### 👋 Get in touch
 
-- [Portfolio](https://cutterknife.studio.site)
+- [Send email](https://forms.gle/F5eLnMt3Y498rJwaA)
 
-- [Contact](https://cutterknife.studio.site/contact)
+- [Commissions](https://cutterknife.studio.site/contact)
 
-- [Links](https://potofu.me/cutterknife)
+- [Socials](https://potofu.me/cutterknife)
