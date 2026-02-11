@@ -9,18 +9,21 @@
 
 - I'm one of the Moderators of the Floorp Project 🛠️
 - Floorp is an open-source browser based on Firefox 🦊
-- I help design things outside the interface 🖌️
+- I design branding assets and promotional materials 🖌️
 - I also work on Japanese translation, docs, and more 📃
+- cutterknife@mail.floorp.app **for Floorp-related inquiries only.** Please use the [repository](https://github.com/Floorp-Projects/Floorp) for bugs & features 👾
 
-### 💻 Tools I have
+### 💻 Tools I use
 
 - Linearity Curve (several years)
-- Adobe Photoshop (beginner)
 - Adobe Illustrator (beginner)
-- Rarely: Notion, Figma, GIMP, Apple Pro Apps, etc
+- Adobe Photoshop (beginner)
+- Rarely: Notion, Affinity, Figma, etc
 
 ### 👋 More about me (Japanese)
 
-- [Portfolio](https://cutterknife.studio.site/)
+- [Portfolio](https://cutterknife.studio.site)
 
-- [Links](https://potofu.me/cutterknife/)
+- [Contact](https://cutterknife.studio.site/contact)
+
+- [Links](https://potofu.me/cutterknife)
