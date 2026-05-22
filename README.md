@@ -5,9 +5,9 @@
 - I contribute a bit to projects I like, such as Floorp and TUIC ❤️
 - I'm still learning English, so I usually use a translator 🫠
 
-### 🪼 Floorp Project & Me
+### 🪼 Floorp Projects & Me
 
-- I'm one of the Moderators of the Floorp Project 🛠️
+- I'm one of the Moderators of the Floorp Projects 🛠️
 - Floorp is an open-source browser based on Firefox 🦊
 - I design branding assets and promotional materials 🖌️
 - I also work on Japanese translation, docs, and more 📃
@@ -24,6 +24,6 @@
 
 - [Send email](https://forms.gle/F5eLnMt3Y498rJwaA)
 
-- [Commissions](https://cutterknife.studio.site/contact)
+- [Commissions](https://cutterknife.net/contact)
 
 - [Socials](https://potofu.me/cutterknife)
