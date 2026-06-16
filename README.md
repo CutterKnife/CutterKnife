@@ -22,7 +22,7 @@
 
 ### 👋 Get in touch
 
-- [Send email](https://forms.gle/F5eLnMt3Y498rJwaA)
+- [Send email](https://forms.gle/mLis3wx46C9vmzoa7)
 
 - [Commissions](https://cutterknife.net/contact)
 
