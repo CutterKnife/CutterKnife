@@ -11,7 +11,7 @@
 - Floorp is an open-source browser based on Firefox 🦊
 - I design branding assets and promotional materials 🖌️
 - I also work on Japanese translation, docs, and more 📃
-- cutterknife@mail.floorp.app for Floorp-related inquiries only. **Please use the [repository](https://github.com/Floorp-Projects/Floorp) for bugs & features 👾**
+- cutter@floorp.app for Floorp-related inquiries only. **Please use the [repository](https://github.com/Floorp-Projects/Floorp) for bugs & features 👾**
 
 ### 💻 Tools I use
 
