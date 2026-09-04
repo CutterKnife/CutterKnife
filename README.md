@@ -22,8 +22,6 @@
 
 ### 👋 Get in touch
 
-- [Send email](https://forms.gle/mLis3wx46C9vmzoa7)
-
-- [Commissions](https://cutterknife.net/contact)
+- [Commissions / Contact](https://cutterknife.net/contact)
 
 - [Socials](https://potofu.me/cutterknife)
